@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FluencyNow.Android", "FluencyNow\FluencyNow.Android\FluencyNow.Android.csproj", "{ECF501B2-C6D7-481A-B2F2-C90788F3FEB7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FluencyNow", "FluencyNow\FluencyNow\FluencyNow.csproj", "{694FF28B-5BB9-494F-A88F-68717A1871B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECF501B2-C6D7-481A-B2F2-C90788F3FEB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF501B2-C6D7-481A-B2F2-C90788F3FEB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF501B2-C6D7-481A-B2F2-C90788F3FEB7}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ECF501B2-C6D7-481A-B2F2-C90788F3FEB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF501B2-C6D7-481A-B2F2-C90788F3FEB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECF501B2-C6D7-481A-B2F2-C90788F3FEB7}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{694FF28B-5BB9-494F-A88F-68717A1871B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694FF28B-5BB9-494F-A88F-68717A1871B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694FF28B-5BB9-494F-A88F-68717A1871B9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{694FF28B-5BB9-494F-A88F-68717A1871B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694FF28B-5BB9-494F-A88F-68717A1871B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{694FF28B-5BB9-494F-A88F-68717A1871B9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1CE921B-52FD-4927-AEB8-208F7BC801FB}
+	EndGlobalSection
+EndGlobal
